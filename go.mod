@@ -30,7 +30,7 @@ require (
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	github.com/yl2chen/cidranger v1.0.2
 	github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9
-	golang.org/x/net v0.0.0-20211101193420-4a448f8816b3
+	golang.org/x/net v0.36.0
 	golang.org/x/oauth2 v0.0.0-20211028175245-ba495a64dcb5
 	layeh.com/gopher-json v0.0.0-20201124131017-552bb3c4c3bf
 )
